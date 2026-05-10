@@ -28,7 +28,7 @@ Currently: learning in public and figuring it all out one commit at a time.
 - 🧑‍🏫 I want to teach someday — genuinely, not as a backup plan
 - 🏛️ I think about Alexander the Great every day
 - 📖 I read a lot — history, philosophy, literature, the occasional rabbit hole on ancient civilizations
-- 🐦 my GitHub username is `nonsensicalraven` and yes, it has a story
+
 ---
  
 *always curious. always building.* ✨
